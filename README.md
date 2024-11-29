@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mern stack Projects<br>
+i'm working on Mern stack Projects<br>
 
 
 # 💻 Tech Stack:
