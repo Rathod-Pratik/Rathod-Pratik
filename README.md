@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm working on Mern stack Projects<br>
+Full-Stack Developer with hands-on experience in building responsive and scalable web applications using React.js, Node.js, and Express. Skilled in crafting clean UI/UX, managing APIs, and deploying apps with Docker and Vercel. Passionate about solving real-world problems and delivering optimized, production-ready solutions.<br>
 
 
 # 💻 Tech Stack:
