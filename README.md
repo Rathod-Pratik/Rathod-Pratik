@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer with hands-on experience in building responsive and scalable web applications using React.js, Node.js, and Express. Skilled in crafting clean UI/UX, managing APIs, and deploying apps with Docker and Vercel. Passionate about solving real-world problems and delivering optimized, production-ready solutions.<br>
+Frontend Developer skilled in developing dynamic and responsive web applications with React.js and modern JavaScript, along with mobile apps using React Native. Strong in crafting intuitive interfaces, integrating APIs, and improving application performance. Committed to delivering scalable and high-quality user experiences.<br>
 
 
 # 💻 Tech Stack:
