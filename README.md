@@ -8,20 +8,6 @@ Backend Developer • API Developer • Software Engineering Enthusiast
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Laravel+%7C+Node.js+Developer;RESTful+API+Developer;Database+Design+Enthusiast;Building+Scalable+Backend+Systems;Always+Learning+and+Building" />
 </p>
 
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
-
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -30,7 +16,7 @@ I'm a passionate **Backend Developer** focused on building secure, scalable, and
 
 I enjoy designing backend systems, developing RESTful APIs, working with databases, implementing authentication and authorization, and solving complex backend problems.
 
-My primary focus is on technologies such as **Laravel, Node.js, Express.js, PHP, TypeScript, SQL, MongoDB, Redis, and .NET**.
+My primary focus is on technologies such as **Laravel, Node.js, Express.js, PHP, TypeScript, SQL, MongoDB, Redis **.
 
 I enjoy understanding how applications work behind the scenes—from handling requests and business logic to managing databases, caching, background jobs, authentication, payments, and scalable system architecture.
 
@@ -100,7 +86,6 @@ I enjoy understanding how applications work behind the scenes—from handling re
 * Express.js
 * TypeScript
 * JavaScript
-* .NET
 
 ### 🌐 API Development
 
@@ -153,112 +138,20 @@ I enjoy understanding how applications work behind the scenes—from handling re
 * Composer
 * npm
 
----
-
-# 🏗️ Backend Architecture
-
-I am interested in building applications using clean and maintainable backend architecture.
-
-My areas of focus include:
-
-```text
-Client
-   ↓
-Routes
-   ↓
-Middleware
-   ↓
-Controller
-   ↓
-Service / Business Logic
-   ↓
-Model / Repository
-   ↓
-Database
-```
-
-I also enjoy working with:
-
-```text
-API Request
-     ↓
-Validation
-     ↓
-Authentication
-     ↓
-Authorization
-     ↓
-Business Logic
-     ↓
-Database
-     ↓
-Cache
-     ↓
-JSON Response
-```
-
----
-
-# 📂 Featured Backend Projects
-
-### 🌍 TravelWorld Backend
-
-A backend system for a travel platform featuring:
-
-* Authentication
-* Tours
-* Hotels
-* Bookings
-* Reviews
-* Contact Management
-* Payments
-* Redis Caching
-* Background Jobs
-* AWS S3 Image Storage
-
-### 🛒 E-Commerce Backend
-
-A backend application featuring:
-
-* User Authentication
-* Categories
-* Products
-* Cart Management
-* Wishlist
-* Orders
-* Order Items
-* Reviews
-* Multiple Image Uploads
-* Payment Management
-* Authorization
-
-### 🔐 Authentication System
-
-Backend authentication features including:
-
-* User Registration
-* Login
-* Logout
-* Token Authentication
-* Protected Routes
-* Middleware
-* Roles & Permissions
-
----
 
 # 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rathod-Pratik&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathod-Pratik&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathod-Pratik&theme=tokyonight"/>
 
 </p>
 
@@ -268,7 +161,7 @@ Backend authentication features including:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathod-Pratik&theme=tokyo-night"/>
 
 </p>
 
@@ -341,16 +234,12 @@ I believe great backend development is not only about writing code—it is about
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rathod-pratik">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rathodpratik1928@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
 </p>
